@@ -1,2 +1,16 @@
-# PsyEdge-App
-Trading mindset and discipline app focused on consistency and psychology.
+# PsyEdge App
+
+A trading mindset and discipline app.
+
+## Core Focus
+- Discipline
+- Patience
+- High probability setups
+
+## Features
+- Daily affirmations
+- Psychology training
+- Consistency tracking
+
+## Status
+🚧 In Development
