@@ -14,3 +14,7 @@ A trading mindset and discipline app.
 
 ## Status
 🚧 In Development
+
+## Support the Project
+
+👉 [Support PsyEdge](DONATE.md)
