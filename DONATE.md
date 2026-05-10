@@ -31,7 +31,7 @@ mohdraza13-3@okaxis
 
 ## 📩 Contact
 If you contribute, feel free to reach out:
-CalyVyre@gmail.com  
+calyvyre@gmail.com
 
 ---
 
