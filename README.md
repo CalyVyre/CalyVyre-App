@@ -1,4 +1,4 @@
-# PsyEdge App
+# CalyVyre App
 
 A trading mindset and discipline app.
 
