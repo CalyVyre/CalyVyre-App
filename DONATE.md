@@ -1,4 +1,4 @@
-# 💛 Support PsyEdge
+# 💛 Support CalyVyre
 
 If you find this project useful and want to support its development, you can contribute using any of the methods below.
 
@@ -31,9 +31,9 @@ mohdraza13-3@okaxis
 
 ## 📩 Contact
 If you contribute, feel free to reach out:
-psydedge.support@gmail.com  
+CalyVyre@gmail.com  
 
 ---
 
-🙏 Thank you for supporting PsyEdge  
+🙏 Thank you for supporting CalyVyre  
 Your support helps build discipline, mindset, and consistent growth.
