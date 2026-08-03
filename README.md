@@ -17,4 +17,4 @@ A trading mindset and discipline app.
 
 ## Support the Project
 
-👉 [Support PsyEdge](DONATE.md)
+👉 [Support CalyVyre](DONATE.md)
