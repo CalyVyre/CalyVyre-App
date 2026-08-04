@@ -29,6 +29,10 @@ A trading mindset and discipline app focused on building trading discipline, con
 ## Status
 🚧 In Development
 
+## About
+
+👉 [About the Developer](ABOUT.md)
+
 ## Support the Project
 
 👉 [Support CalyVyre](DONATE.md)
