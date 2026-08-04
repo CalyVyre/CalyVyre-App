@@ -24,7 +24,7 @@ TBj32hKLRv9tBhwjCvu5Hx6zENUBmzqMR9
 ---
 
 ## 🏦 UPI ID(India only)
-mohdraza13-3@okaxis
+mohdraza13-1@oksbi
 
 
 ---
